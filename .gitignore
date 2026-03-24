@@ -1,0 +1,6 @@
+.env
+data/users.json
+data/sessions.json
+__pycache__/
+*.pyc
+venv

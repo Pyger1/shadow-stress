@@ -1,0 +1,2 @@
+python-telegram-bot[job-queue]==21.7
+anthropic==0.42.0
